@@ -6,7 +6,7 @@ const AboutMe = () => {
     <div className="flex flex-col items-center py-10 min-h-screen">
       <h1 className="text-6xl font-medium mb-5">About Me</h1>
       {/* image */}
-
+	<img src={stockPhoto} alt="photo" className="w-10 h-10"> </img>
       {/*"about me" section */}
       <div className="bg-blue-200 min-w-56 max-w-96 font-bold flex justify-center px-5"></div>
       {/* bio */}

@@ -10,7 +10,7 @@ const AboutMe = () => {
       {/*"about me" section */}
       <div className="bg-blue-200 min-w-56 max-w-96 font-bold flex justify-center px-5"></div>
       {/* bio */}
-      <p className="w-96 px-5"></p>
+      <p className="w-96 px-5">My name is Yukun Peng. I have get the B.Eng in EEE from University of Liverpool.</p>
       {/* hobbies and interests */}
       {/* To make a list:
       <ul>

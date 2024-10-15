@@ -8,8 +8,7 @@ const HomePage = () => {
         {/* <div className="justify-items-center gap-20 p-20 bg-gray-100 text-center"> */}
         <h1 className="font-bold">Hello</h1>
         <p>
-          Some background about me is that something something something
-          something
+          Hi
         </p>
         {/* </div> */}
       </div>
